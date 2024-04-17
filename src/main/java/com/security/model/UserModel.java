@@ -21,5 +21,5 @@ public class UserModel {
 
     private String userName;
     private String passWord;
-    private String roles;
+    
 }
